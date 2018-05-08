@@ -11,8 +11,9 @@
 
 ### ニュースとTwitterアカウント
 
-- Mogura VRさん @MoguraVR ‏
+- Mogura VRさん @MoguraVR
 - PANORAさん　@panoravr
+- VRoadCaster @vroadcaster
 
 - Unityのエディタ : https://www.moguravr.com/unity-carte-blanche/
 
